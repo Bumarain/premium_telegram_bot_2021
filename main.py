@@ -2,7 +2,7 @@ import logging
 from telegram.ext import *
 import responses
 
-API_KEY = 'YOUR API KEY'
+API_KEY = '5705148544:AAGDvwWVCEvKWSQYqNC3IdrO4CfHyQSl0B4'
 
 # Set up the logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
